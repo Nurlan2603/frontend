@@ -2,4 +2,10 @@
 
 ## Introduction
 
-Git code
+```git
+git init
+git add .
+git add file-nam
+git commit -m "type your message"
+git push
+```
